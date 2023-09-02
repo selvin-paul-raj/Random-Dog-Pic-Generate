@@ -45,7 +45,7 @@ function Dog() {
         </button>
       </div>
       <footer>
-        <a href='#' title='Github'>&copy; SPR Hackz 2023</a>
+        <a href='https://github.com/SPRHackz' title='Github'>&copy; SPR Hackz 2023</a>
       </footer>
     </div>
   );
