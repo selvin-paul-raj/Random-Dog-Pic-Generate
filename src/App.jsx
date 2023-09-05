@@ -1,9 +1,9 @@
-import DogPics from './DogPics';
+import Dog from "./Components/Dog" 
 
 function App() {
   return (
     <div className="App">
-      <DogPics />
+      <Dog />
     </div>
   );
 }
